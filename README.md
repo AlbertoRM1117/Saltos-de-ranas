@@ -14,12 +14,12 @@ Para la instalacion del software necesitara algunas herramientas para la correct
 
 #### Instalación 🔧
 1. Para la instalación correcta del programa lo primero es instalar python en nuestra máquina local.
-   * En la página oficial de [(https://www.python.org/downloads/]) vamos a descargar el archivo de instalación de acuerdo a nuestro sistema 
+   * En la página oficial de [Python](https://www.python.org/downloads/). vamos a descargar el archivo de instalación de acuerdo a nuestro sistema 
      operativo que tengamos.
      - El siguiente paso es abrir el archivo y comenzar la instalación del mismo, un a vez terminada la instalación podemos verificar mediante la consola
        con el siguiente comando `python --version` que nos mostrara cuál es la versión que tenemos instalada de python.
 2. El siguiente paso es instalar nuestro editor de código en caso de no tener uno, en esta ocasión utilizaremos Visual Studio Code.
-   * En la página oficial de [(https://code.visualstudio.com/)] vamos a seleccionar nuestro sistema operativo y comenzamos con la descarga del archivo,
+   * En la página oficial de [Visual Studio Code](https://code.visualstudio.com/). vamos a seleccionar nuestro sistema operativo y comenzamos con la descarga del archivo,
      una vez descargado el programa lo abrimos y comenzamos con su instalación.
      - Una vez instalado el programa en la sección de extenciones vamos a proceder a instalar las extensiones de python para que nuestro entorno pueda
        empezar a ejecutar código de python.
